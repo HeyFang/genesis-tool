@@ -1,4 +1,4 @@
-# Genesis Tool 🚀
+# Genesis Tool
 
 Genesis Tool is a powerful, menu-driven Bash script designed to automate the entire lifecycle of a new Ubuntu server. It transforms the tedious, error-prone process of server setup into a fast, secure, and consistent workflow, accessible from a single, user-friendly command-line interface.
 
